@@ -1,0 +1,12 @@
+body { margin: 0; font-family: Arial, sans-serif; background: url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1') no-repeat center/cover; color: #fff; }
+.overlay { background: rgba(0, 32, 91, 0.85); min-height: 100vh; padding: 20px; }
+header { text-align: center; margin-bottom: 40px; }
+h1 { color: #FFD700; font-size: 28px; }
+.login-box { background: #fff; color: #00205B; padding: 30px; border-radius: 10px; width: 300px; margin: auto; text-align: center; }
+.price { color: #FFD700; font-weight: bold; font-size: 20px; }
+button { background: #FFD700; color: #00205B; border: none; padding: 12px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 16px; }
+#quiz-container { background: #fff; color: #00205B; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px; margin: auto; }
+.hidden { display: none; }
+#timer { font-weight: bold; margin-bottom: 15px; color: red; font-size: 18px; }
+footer { text-align: center; margin-top: 50px; font-size: 12px; }
+label { display: block; margin: 8px 0; text-align: left; }
